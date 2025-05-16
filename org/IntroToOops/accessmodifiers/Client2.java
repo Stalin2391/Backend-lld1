@@ -8,6 +8,6 @@ public class Client2 {
 //        System.out.println(st.name);
 //        System.out.println(st.age);
 //        System.out.println(st.psp);
-        System.out.println(st.batch);
+//        System.out.println(st.batch);
     }
 }

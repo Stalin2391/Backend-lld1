@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6d9df9-6cda-4f08-8f35-bc71d825f1bd" name="Changes" comment="intro Oops" />
+    <list default="true" id="cf6d9df9-6cda-4f08-8f35-bc71d825f1bd" name="Changes" comment="intro Oops">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/IntroToOops/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/IntroToOops/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/IntroToOops/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/IntroToOops/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/IntroToOops/accessmodifiers/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/IntroToOops/accessmodifiers/Client2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Stalin2391"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Stalin2391/Backend-lld1.git",
+    "accountId": "3883886f-7a71-4ba4-b9b8-3abb9980f221"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -31,7 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Debug",
+    "Application.Client.executor": "Run",
     "Application.Client2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -55,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747385518468</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intro Oops">
+      <option name="closed" value="true" />
+      <created>1747385637654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747385637654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -69,6 +94,16 @@
           <url>file://$PROJECT_DIR$/org/IntroToOops/Client.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/IntroToOops/Client.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/IntroToOops/Client.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
