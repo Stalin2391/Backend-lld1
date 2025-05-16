@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6d9df9-6cda-4f08-8f35-bc71d825f1bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackendLLD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/IntroToOops/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/IntroToOops/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/IntroToOops/accessmodifiers/Client2.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf6d9df9-6cda-4f08-8f35-bc71d825f1bd" name="Changes" comment="intro Oops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +47,20 @@
       <option name="presentableId" value="Default" />
       <updated>1747382218588</updated>
     </task>
+    <task id="LOCAL-00001" summary="intro Oops">
+      <option name="closed" value="true" />
+      <created>1747385518468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747385518468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intro Oops" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro Oops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
